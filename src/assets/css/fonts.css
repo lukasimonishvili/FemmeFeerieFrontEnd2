@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Segoe UI';
+  src: url('../fonts/SegoeUI.woff2') format('woff2'),
+    url('../fonts/SegoeUI.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Segoe UI';
+  src: url('../fonts/SegoeUI-Semibold.woff2') format('woff2'),
+    url('../fonts/SegoeUI-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Segoe UI Emoji';
+  src: url('../fonts/SegoeUIEmoji.woff2') format('woff2'),
+    url('../fonts/SegoeUIEmoji.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Microsoft JhengHei';
+  src: url('../fonts/MicrosoftJhengHeiBold.woff2') format('woff2'),
+    url('../fonts/MicrosoftJhengHeiBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sitka Subheading';
+  src: url('../fonts/SitkaSubheadingMT.woff2') format('woff2'),
+    url('../fonts/SitkaSubheadingMT.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sitka Subheading';
+  src: url('../fonts/SitkaSubheading-Bold.woff2') format('woff2'),
+    url('../fonts/SitkaSubheading-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
